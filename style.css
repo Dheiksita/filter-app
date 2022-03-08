@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+#heading{
+    height: 100px;
+    width: 280px;
+    font-size: 47px !important;
+    background-color: aquamarine;
+    color: blueviolet;
+}
+#acceseries{
+    height: 50px;
+    width: 200px;
+    font-size: 27px !important;
+    background-color: rgb(229, 127, 255);
+    color: rgb(44, 49, 0);
+}
+#effects{
+    height: 50px;
+    width: 200px;
+    font-size: 27px !important;
+    background-color: rgb(113, 255, 125);
+    color: rgb(255, 0, 0);
+}
+
